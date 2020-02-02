@@ -33,7 +33,7 @@ DELETE | `/api/user/destroy/{pk}` | Delete a user
 If you wish to run your own build, you two options
  1. User Docker compose.
     
-    `$ git clone https://github.com/p8ul/django-rest-framework-boilerplate`
+    `$ git clone https://github.com/pusku/rest-framework-boilerplate-django`
     
     `$ cd django-rest-framework-boilerplate`    
     `$ docker-compose up`
@@ -48,7 +48,7 @@ After doing this, confirm that you have installed virtualenv globally as well. I
     $ pip install virtualenv
 Then, Git clone this repo to your PC
 
-    $ git clone https://github.com/p8ul/django-rest-framework-boilerplate
+    $ git clone https://github.com/pusku/rest-framework-boilerplate-django
     $ cd django-rest-framework-boilerplate
 Create a virtual environment
 
